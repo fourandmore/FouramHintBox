@@ -1,0 +1,13 @@
+{
+  "name": "FouramHintBox",
+  "namespace": "FouramHintBox",
+  "type": "plugin",
+  "version": "1.0.0",
+  "author": "You",
+  "license": "AGPL-3.0",
+  "require": {
+    "Ceres": ">=5.0.0",
+    "IO": ">=5.0.0"
+  },
+  "serviceProvider": "FouramHintBox\\Providers\\FouramHintBoxServiceProvider"
+}
